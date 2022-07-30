@@ -1,0 +1,32 @@
+.anime-item{
+    background: linear-gradient(90deg, #7b4397 0%, #dc2430 100%);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;  
+
+}
+.title{
+   
+  background: linear-gradient(90deg, #7b4397 0%, #dc2430 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-bottom: 15px;
+}
+
+.about{   
+    height: 100%;
+    color: beige;
+    background-color: #7b4397;
+    max-height: fit-content;
+   padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    overflow-y: auto;
+}
+.img-character{
+    height: 200px;
+    width: auto;
+    object-fit: cover;
+}

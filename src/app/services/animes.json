@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Overlord",
+    "year": 2015,
+    "genre": "Isekai",
+    "episodes": 13,
+    "rating": 7.9,
+    "about": "La historia da comienzo cuando Yggdrasil, un popular juego online, es cerrado un día sin previo aviso. Sin embargo, el protagonista, Momonga, decide no salir del juego. Momonga se transforma y se convierte en el mago más poderoso. El mundo sigue cambiando con él dentro, y los NPCs comienzan a sentir emociones. Sin familia, amigos ni lugar en la sociedad, Momonga tendrá; que luchar por adaptarse al nuevo mundo en el que se ha convertido el juego.",
+    "image": "https://tioanime.com/uploads/portadas/2105.jpg",
+    "characters": [
+      {
+        "id": 1,
+        "name": "Ainz Ooal Gown",
+        "image": "https://static.wikia.nocookie.net/overlordmaruyama/images/d/db/Ainz_Anime_Updated.png"
+      },
+      {
+        "id": 2,
+        "name": "Albedo",
+        "image": "https://static.wikia.nocookie.net/overlordmaruyama/images/c/c6/Albedo_Anime_Updated.png/"
+      },
+      {
+        "id": 3,
+        "name": "Lupusregina  Beta",
+        "image": "https://static.wikia.nocookie.net/overlordmaruyama/images/6/69/Lupusregina.png"
+      },
+      {
+        "id": 4,
+        "name": "Brain Unglaus",
+        "image": "https://static.wikia.nocookie.net/overlordmaruyama/images/2/2c/Brain_Anime.png"
+      },
+      {
+        "id": 5,
+        "name": "Demiurge",
+        "image": "https://static.wikia.nocookie.net/overlordmaruyama/images/4/4d/Demiurge_Anime_Updated.png"
+      },
+      {
+        "id": 6,
+        "name": "Narberal Gamma",
+        "image": "https://static.wikia.nocookie.net/overlordmaruyama/images/6/67/Narberal_Gamma_Profile.png"
+      },
+      {
+        "id": 7,
+        "name": "Evileye",
+        "image": "https://static.wikia.nocookie.net/overlordmaruyama/images/e/ee/Evileye_Profile.png"
+      },
+      {
+        "id": 8,
+        "name": "Cocytus",
+        "image": "https://static.wikia.nocookie.net/overlordmaruyama/images/2/2c/Cocytus_Anime_Updated.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Jujutsu kaisen",
+    "year": 2020,
+    "genre": "acción",
+    "episodes": 24,
+    "rating": 8.6,
+    "about": "Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
+    "image": "https://tioanime.com/uploads/portadas/3376.jpg",
+    "characters": [
+      {
+        "id": 1,
+        "name": "Yuuji Itadori",
+        "image": "https://i.pinimg.com/originals/6b/17/81/6b178119bfc64b02fb1d4fd2e92f2791.png"
+      },
+      {
+        "id": 2,
+        "name": "megumi fushiguro",
+        "image": "https://animecharactersdatabase.com/uploads/chars/67712-1362997469.png"
+      },
+      {
+        "id": 3,
+        "name": "Nobara Kugisaki",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ac03a17e-589d-4ac1-952a-4185d1070994/df4zv2i-0000b802-e442-4fe0-b364-3f6662e414e7.png/v1/fill/w_1280,h_1711,strp/jujutsu_kaisen_render__kugisaki_nobara__by_minhchauk1k_df4zv2i-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcxMSIsInBhdGgiOiJcL2ZcL2FjMDNhMTdlLTU4OWQtNGFjMS05NTJhLTQxODVkMTA3MDk5NFwvZGY0enYyaS0wMDAwYjgwMi1lNDQyLTRmZTAtYjM2NC0zZjY2NjJlNDE0ZTcucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.EZ7ea42s2E5BMDXgAG7VgYTEnKs-ywWEIq5ha-q_zew"
+      },
+      {
+        "id": 4,
+        "name": "Maki Zenin",
+        "image": "https://1.bp.blogspot.com/-LSDkUsjmhVQ/YAnJeT3CvNI/AAAAAAAApRE/fow2NNq2e4ExBuEvpYHHtWj1joNtsC_RACLcBGAsYHQ/w1200-h630-p-k-no-nu/chara_detail6.png"
+      },
+      {
+        "id": 5,
+        "name": "Satoru Gojo (Satoru Gojō)",
+        "image": "https://static.wikia.nocookie.net/7f607d07-49c0-42c2-ae38-0c05d1836cae"
+      },
+      {
+        "id": 6,
+        "name": "Yūta Okkotsu",
+        "image": "https://i.ebayimg.com/images/g/NA8AAOSwMmRhwQXb/s-l500.png"
+      },
+      {
+        "id": 7,
+        "name": "Aoi Todo",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a155f0b1-4492-4c2c-9f70-101cec027cb9/df43ig1-90c6cde8-904a-4c89-a6ba-2b6178c3a026.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ExNTVmMGIxLTQ0OTItNGMyYy05ZjcwLTEwMWNlYzAyN2NiOVwvZGY0M2lnMS05MGM2Y2RlOC05MDRhLTRjODktYTZiYS0yYjYxNzhjM2EwMjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bYqXAaPwtxTYCi4shw7pN3NfZlFFaxaeR3Z8_LbSr3g"
+      },
+      {
+        "id": 8,
+        "name": "Kento Nanami",
+        "image": "https://i.pinimg.com/originals/6c/93/ae/6c93ae0235a70fa06b18e80dee9c9537.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Shingeki no Kyojin",
+    "year": 2013,
+    "genre": "Shounen",
+    "episodes": 25,
+    "rating": 8.5,
+    "about": "La historia de Shingeki no Kyojin nos traslada a una época en la que la humanidad ha estado al borde de la extinción debido a la existencia de los titanes. Unos seres gigantes aparentemente sin inteligencia cuyo objetivo no es otro que devorar humanos a pesar de no necesitarlos para sobrevivir. Los pocos supervivientes han levantado tres muros más altos que cualquier titán, donde viven pacíficamente sin el miedo de ser devorados por los gigantes. La humanidad ha vivido tranquila durante más de 100 años hasta que en el año 845 aparece de la nada un titán más alto que los muros construidos para protegerse y crea una brecha en uno de ellos permitiendo que todos los titanes se abran paso hacia el interior. En ese momento, la humanidad recibe el recordatorio de que viven con miedo a ser devorados por los titanes.",
+    "image": "https://tioanime.com/uploads/portadas/999.jpg",
+    "characters": [
+      {
+        "id": 1,
+        "name": "Eren Jaeger",
+        "image": "https://i.pinimg.com/originals/38/1e/5d/381e5d10207539c46ec6f9d8f2fbd687.png"
+      },
+      {
+        "id": 2,
+        "name": "Armin Arlert",
+        "image": "https://i.pinimg.com/originals/e4/bb/1b/e4bb1bec2c43e1a0ce2b66ca6c118b23.png"
+      },
+      {
+        "id": 3,
+        "name": "Mikasa Ackerman",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f41ce635-05f6-4145-a06a-49bdefa26e42/ddygd8m-7e3f7a28-7544-4d82-bfbb-66176b951667.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y0MWNlNjM1LTA1ZjYtNDE0NS1hMDZhLTQ5YmRlZmEyNmU0MlwvZGR5Z2Q4bS03ZTNmN2EyOC03NTQ0LTRkODItYmZiYi02NjE3NmI5NTE2NjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.b0iBd9vCSgTLyIlAHy9rkekB3N26_J9m2sOraz_3xps"
+      },
+      {
+        "id": 4,
+        "name": "Levi Ackerman",
+        "image": "https://www.pngmart.com/files/19/Captain-Levi-Ackerman-PNG-Transparent-Image.png"
+      },
+      {
+        "id": 5,
+        "name": "Reiner Braum",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dej1dqy-531e3dee-1e22-488b-bdb1-b545b3dffe9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVqMWRxeS01MzFlM2RlZS0xZTIyLTQ4OGItYmRiMS1iNTQ1YjNkZmZlOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WKdH8Fx557tDTL6m_bKPN-Lc10Kya5qa-g_IEWSlQFU"
+      },
+      {
+        "id": 6,
+        "name": "Hange Zoë",
+        "image": "https://i.pinimg.com/originals/11/4b/d8/114bd873206afe5069001366ef6d861e.png"
+      },
+      {
+        "id": 7,
+        "name": "Sasha Blouse",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dej1e0f-b835d8df-e837-40ca-ad0e-035337a3af72.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVqMWUwZi1iODM1ZDhkZi1lODM3LTQwY2EtYWQwZS0wMzUzMzdhM2FmNzIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1SuKHw-PxlacDTqxcgTYB7DvMB9eJ9UyxhaK5-w-ZPQ"
+      },
+      {
+        "id": 8,
+        "name": "Erwin Smith",
+        "image": "https://i.pinimg.com/originals/61/3a/56/613a569421937187aca6f6d7bb09fde5.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kekkai Sensen",
+    "year": 2015,
+    "genre": "Shounen",
+    "episodes": 13,
+    "rating": 7.6,
+    "about": "Kekkai Sensen gira en torno a la organización 'Libra' la cual combate contra el crimen en la apocalíptica ciudad de Hellsalem's Lot, anteriormente conocida como New York City. Hellsalem's Lot nació cuándo un portal del Inframundo fue abierto, trayendo consigo a varias criaturas de otro mundo llamado El Más Allá. Para evitar que la catástrofe se extendiera, varias personas conocidas como Conjuradores levantaron una gran barrera la cual cubrió todo New York evitando así que la catástrofe se extendiera por todo el mundo.",
+    "image": "https://tioanime.com/uploads/portadas/1899.jpg",
+    "characters": [
+      {
+        "id": 1,
+        "name": "Leonardo Watch",
+        "image": "https://i.pinimg.com/originals/d4/2b/16/d42b169589b5cde1ed319e875309efcb.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Klaus Von Reinhertz",
+        "image": "https://64.media.tumblr.com/0b6ba7b4c34592a2dba28bd079a4c50c/tumblr_nnfv8oYny11qlxp6no1_1280.png"
+      },
+      {
+        "id": 3,
+        "name": "Zapp Renfro",
+        "image": "https://static.zerochan.net/Zapp.Renfro.full.1887417.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Chain Sumeragi",
+        "image": "https://www.pngkit.com/png/detail/4-45148_chain-blood-blockade-battlefront-chain-sumeragi.png"
+      },
+      {
+        "id": 5,
+        "name": "Steven A. Starphase",
+        "image": "https://cosplayfu-website.s3.amazonaws.com/_Photo/character/mini/24569_16888.jpg"
+      },
+      {
+        "id": 6,
+        "name": "K.K.",
+        "image": "https://i.ibb.co/BjL6nYQ/166154.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Deldro Brody & Dog Hummer",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/952898f2-9fe5-4002-9b78-c0f5bafca482/d9197ej-607a2e5e-8024-41cc-9254-36042322fa3f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1Mjg5OGYyLTlmZTUtNDAwMi05Yjc4LWMwZjViYWZjYTQ4MlwvZDkxOTdlai02MDdhMmU1ZS04MDI0LTQxY2MtOTI1NC0zNjA0MjMyMmZhM2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sNzPOv-MguEoZkSeu7NRCQW5J5PpLbElOcPz16Kq77M"
+      },
+      {
+        "id": 8,
+        "name": "Zed O'Brien",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/539e5ac1-411a-49fa-be48-eae60b3ea410/d993d5v-6efc8148-6af5-4daa-b4cc-2c56dc05e944.png/v1/fill/w_1024,h_726,strp/zed_o_brien_by_phrasyon4000_d993d5v-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzI2IiwicGF0aCI6IlwvZlwvNTM5ZTVhYzEtNDExYS00OWZhLWJlNDgtZWFlNjBiM2VhNDEwXC9kOTkzZDV2LTZlZmM4MTQ4LTZhZjUtNGRhYS1iNGNjLTJjNTZkYzA1ZTk0NC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Rfs4g-88yWu_zHTrnpawzVuGUKDE3OEmJjNuvC3X5Yc"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "One Piece",
+    "year": 1999,
+    "genre": "acción",
+    "episodes": 1026,
+    "image": "https://tioanime.com/uploads/portadas/7.jpg",
+    "rating": "8.6",
+    "about": "Una historia épica de piratas, donde narra la historia de \"Monkey D. Luffy\" quien cuado tenia 7 años, comió accidentalmente una \"Akuma no mi\"(Futa del diablo) la cual le dio poderes de goma. Por otra parte \"Gol D. Roger\" conocido como \"El rey de los Piratas\" quien fuera ejecutado por la Marine, habló antes de morir, acerca de su famoso tesoro \"One Piece\" escondido en la \"Gran line\". Esta noticia desato la gran era de la piratas lanzando a incontables piratas a ese lugar, en busca de \"One Piece\" el tesoro perdido. Diez años después, Luffy inspirado en \"Gol D. Roger\" y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo \"Rey de los Piratas\" y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el \"One Piece\".",
+    "characters": [
+      {
+        "id": 1,
+        "name": "Monkey D. Luffy",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c6f1009-9bed-42c1-90b2-5672c47100ef/d6mwl0m-ca65a3e0-1430-4695-8514-bb4422c4803e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjNmYxMDA5LTliZWQtNDJjMS05MGIyLTU2NzJjNDcxMDBlZlwvZDZtd2wwbS1jYTY1YTNlMC0xNDMwLTQ2OTUtODUxNC1iYjQ0MjJjNDgwM2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1ZWES6x_Yu6o3MGskj7-9iI6K5iNjseECtBZ8nb3nPk"
+      },
+      {
+        "id": 2,
+        "name": "Roronoa Zoro",
+        "image": "https://i.pinimg.com/originals/0e/d3/47/0ed347cb9947d3b50bcb846e5f2819ab.png"
+      },
+      {
+        "id": 3,
+        "name": "Nami",
+        "image": "https://i.pinimg.com/originals/05/cc/74/05cc741731b34cd50bb5b711ac713d31.png"
+      },
+      {
+        "id": 4,
+        "name": "Usopp",
+        "image": "https://icons.iconarchive.com/icons/crountch/one-piece-character/256/Usopp-icon.png"
+      },
+      {
+        "id": 5,
+        "name": "Sanji",
+        "image": "https://icons.iconarchive.com/icons/crountch/one-piece-character/256/Sanji-icon.png"
+      },
+      {
+        "id": 6,
+        "name": "Tony Tony Chopper",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d3ec5e6-f5c2-48c0-9e9d-e8d369743b58/d4fthlf-ba3fc399-5d7b-47b3-8ea1-12c876246799.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkM2VjNWU2LWY1YzItNDhjMC05ZTlkLWU4ZDM2OTc0M2I1OFwvZDRmdGhsZi1iYTNmYzM5OS01ZDdiLTQ3YjMtOGVhMS0xMmM4NzYyNDY3OTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kTlvPYbhYvMS_YzxatbkYf9KXFUqz3rScxuEb4ZXqyw"
+      },
+      {
+        "id": 7,
+        "name": "Nico Robin",
+        "image": "https://i.pinimg.com/originals/36/2a/dc/362adcb2771e1f4ffd32f7186f72189a.png"
+      },
+      {
+        "id": 8,
+        "name": "Brook",
+        "image": "https://i.pinimg.com/originals/16/9e/67/169e67663b5b91fcf857c40d2355bd90.png"
+      },
+      {
+        "id": 9,
+        "name": "Jinbei",
+        "image": "https://i.pinimg.com/originals/77/23/fe/7723fee7ba65e7a6cd68d896a3afc063.png"
+      },
+      {
+        "id": 10,
+        "name": "Franky",
+        "image": "https://i.pinimg.com/originals/b1/fe/25/b1fe25b51e07228719c46ecc08317cf1.png"
+      }
+    ]
+  }
+]

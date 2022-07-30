@@ -1,0 +1,33 @@
+<main class="container-fluid">
+  <div class="row">
+  
+
+    <div class="col-3 pt-5">
+      <img src="{{ anime.image }}" alt="{{ anime.title }}" class="img-fluid" />
+    </div>
+    <div class="col-9 row h-100 mt-5">
+      <div class="col-12 text-center">
+        <h1 class="title">{{ anime.title }}</h1>
+      </div>  
+      <div class="anime-item col"><b>Genero:</b> {{ anime.genre }}</div>
+
+      <div class="anime-item col"> <b> Año de estreno:</b> {{ anime.year }}</div>
+
+      <div class="anime-item col"><b>Calificación: </b>{{ anime.rating }}</div>
+
+      <div class="anime-item col"><b>Episodios: </b>{{ anime.episodes }}</div>
+
+      <p class="about mt-2  pt-3 pb-3">{{ anime.about }}</p>
+    </div>
+  <div class="col-12 row text-center mt-5"> 
+    <div class="col-12">
+      <h2>Personajes</h2>
+    </div>
+    <div class="col-3 mt-3 pb-3" *ngFor="let personaje of anime.characters">
+      <app-personaje  [character]="personaje"></app-personaje>
+    </div>
+    
+  </div>
+
+  </div>
+</main>
